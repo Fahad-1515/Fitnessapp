@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://fitnessapp-xi-ecru.vercel.app
+**URL**: https://fitnessapp-mauve.vercel.app/auth
 
 **Use**
 
