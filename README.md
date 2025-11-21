@@ -1,4 +1,4 @@
-# Welcome to your My Fitness project
+# Welcome to My Fitness project
 
 ## Project info
 
