@@ -4,10 +4,6 @@
 
 **URL**: https://fitnessapp-xi-ecru.vercel.app
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
 **Use**
 
 Simply visit the Website and start prompting.
